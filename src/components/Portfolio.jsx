@@ -9,7 +9,7 @@ import Reveal from './Reveal';
 const projects = [
     {
       img: project1,
-      title: "Hospital Mnagement System",
+      title: "Hospital Management System",
       description: "It's web application SaaS model that help for patient registration, appointment scheduling, and clinical data management for both OPD and IPD. Built the front-end using React.js and Tailwind CSS, and the back-end with Node.js, Express.js, and PostgreSQL. Deployed the system on AWS and optimized using Docker for scalability.",
       links: {
         // site: "#",
