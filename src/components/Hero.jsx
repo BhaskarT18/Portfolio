@@ -88,7 +88,7 @@ const Hero = () => {
         
             
               <button className="z-10 cursor-pointer font-bold text-gray-200 md:w-auto p-4 border
-              border-purple-400 rounded-xl" onClick={() => window.open("https://drive.google.com/file/d/104K_9vOMs14NE7-Pk6J9quPVisUsdCRq/view?usp=sharing")}>
+              border-purple-400 rounded-xl" onClick={() => window.open("https://drive.google.com/file/d/1CAYTG-DBd5kPeBwMkpLk_thcweNO-1BL/view?usp=sharing")}>
                 Download CV
               </button>
               {/* <motion.a
